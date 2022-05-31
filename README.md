@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mansi</h1>
-
+![](https://komarev.com/ghpvc/?username=AnMaJ&color=green)
 <h3 align="center">A student from IIT Guwahati, currently exploring my interests:)</h3>
 - 🌱 I’m currently learning **Node.Js, React, and Deep Learning**
 <h3 align="left">Connect with me:</h3>
