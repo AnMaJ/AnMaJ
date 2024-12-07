@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mansi</h1>
 
-<h3 align="center">A student from IIT Guwahati, currently exploring my interests:)</h3>
+<h3 align="center">A masters student at Imperial College London</h3>
 <img src="https://komarev.com/ghpvc/?username=AnMaJ">
-- 🌱 I’m currently learning **Node.Js, React, and Deep Learning**
+- 🌱 I’m currently focussing on Explainable AI
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mansi-973736204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mansi-973736204/" height="30" width="40" /></a>
